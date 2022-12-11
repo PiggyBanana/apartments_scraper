@@ -18,6 +18,7 @@ sheet = file.open('Stupid')
 sheet = sheet.sheet1 
 
 
+
 # apartments.com url is specific for each filter applied so url determines what kind of apartment 
 # listings the program looks for
 url = 'https://www.apartments.com/apartments/austin-tx/min-3-bedrooms-under-2500/' 
